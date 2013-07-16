@@ -1,0 +1,10 @@
+Does Rest Matter
+
+If so, why does REST matter?
+
+Why is it important to be restful? 
+
+Explain the benefit of the RMM levels? 
+
+Our Questions:  Where does the definition of a resource matter?  Why isn't in the Maturity Model? 
+
