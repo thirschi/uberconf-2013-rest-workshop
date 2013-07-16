@@ -1,0 +1,5 @@
+/exhibits/current/
+/exhibits/{name}
+/artist?
+/artist/{id}/
+/exhibit/{id}/location
