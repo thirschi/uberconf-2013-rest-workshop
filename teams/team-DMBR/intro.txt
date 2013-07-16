@@ -1,0 +1,11 @@
+1. Does REST matter? yes
+2. Why?
+* A lot of peoples backends are rest
+* Rails, Grails, Spring-MVC are RESTful
+* scalability
+3. Why is it important to be RESTful?
+* simplicity, discoverability, scalability
+4. Explain the benefits of the RMM levels.
+RMM level 2 - common client verbs, discoverable API
+RMM level 3 - links, parents, 
+
