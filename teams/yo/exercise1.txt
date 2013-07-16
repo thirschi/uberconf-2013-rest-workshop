@@ -1,0 +1,11 @@
+Does REST matter?
+- Yes
+
+If so, why does REST matter?
+- It matters because it allows us to decouple and decontextualize URLs from our code. We can make consumable urls that are meaningful to the client.
+
+Why is it important to be RESTful?
+- It makes our API portable and flexible. If something changes, our API doesn't just break, it can adapt and if it can't, fail gracefully.
+
+Explain the benefit of each of the RMM levels
+- Don't really know
