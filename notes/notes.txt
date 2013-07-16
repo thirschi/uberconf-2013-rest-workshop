@@ -1,0 +1,10 @@
+This is a note ...
+
+Richardson Maturity Model
+  0 -- SOAP
+  1 -- URL only, where client "knows" what it's going to get
+  2 -- HTTP and URL, using standard verbs
+  3 -- HATEOAS, HTTP and URL
+
+Most "REST" API's are at level 2.  If you put "v1" or "v2" in an endpoint is a good indication that your API is at
+level 2.
